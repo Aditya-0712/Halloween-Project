@@ -1,0 +1,12 @@
+@font-face
+{
+    font-family:secondfont;
+    src:url(Spooky_Halloween.ttf);
+}
+
+#enter
+{
+    font-family:secondfont;
+    display:inline-block;
+    margin:0px 0px 0px 0px;
+}
