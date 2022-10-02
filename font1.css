@@ -1,0 +1,12 @@
+@font-face
+{
+    font-family:spooky ;
+    src:url(Curse_of_the_Zombie.ttf);
+}
+
+#halogo
+{
+    font-family:spooky;
+    display:inline-block;
+    margin: 0px 0px 0px 0px;
+}
