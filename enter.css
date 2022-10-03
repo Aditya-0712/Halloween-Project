@@ -1,0 +1,21 @@
+#ent:link, #ent:visited 
+{
+    background-color:white;
+    color:red;
+    text-align:center;
+    display:inline-block;
+    margin:0px 0px 0px 0px;
+    padding:35px 25px;
+    text-decoration:none
+}
+
+#ent:hover, #ent:active 
+{
+    background-color:rgb(255,255,255,0.8);
+    color:red;
+    text-align:center;
+    display:inline-block;
+    margin:0px 0px 0px 0px;
+    padding:35px 25px;
+    text-decoration:none
+}
