@@ -10,6 +10,8 @@
     font-family:secondfont;
     font-size:30px;
     -webkit-text-stroke: 0.25px black;
+    border: 1px groove black;
+    border-radius:20px;
 }
 
 #ent:hover, #ent:active 
@@ -24,4 +26,6 @@
     font-family:secondfont;
     font-size:30px;
     -webkit-text-stroke: 0.25px black;
+    border: 1px groove black;
+    border-radius:20px;
 }
