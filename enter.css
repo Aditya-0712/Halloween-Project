@@ -1,6 +1,6 @@
 #ent:link, #ent:visited 
 {
-    background-color:white;
+    background-color:rgba(126, 82, 245,0.5);
     color:red;
     text-align:center;
     display:inline-block;
@@ -25,7 +25,7 @@
     text-decoration:none;
     font-family:secondfont;
     font-size:30px;
-    -webkit-text-stroke: 0.25px black;
-    border: 1px groove black;
+    -webkit-text-stroke: 0.25px rgb(0, 0, 0);
+    border: 1px groove rgb(0, 0, 0);
     border-radius:20px;
 }
