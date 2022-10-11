@@ -1,0 +1,10 @@
+@font-face
+{
+    font-family:night;
+    src:url(Nightside.ttf);
+}
+
+.opt
+{
+    font-family:night;
+}
