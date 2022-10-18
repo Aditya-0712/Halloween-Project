@@ -1,0 +1,25 @@
+.bar:link, .bar:visited 
+{
+    background-color:transparent;
+    color:white;
+    display:inline-block;
+    margin:0px 0px 0px 0px;
+    padding:15px 20px;
+    font-family:sans-serif;
+    font-size:20px;
+    text-decoration:none;
+    border-bottom: 7.5px solid transparent;
+}
+
+.bar:hover, .bar:active 
+{
+    background-color:transparent;
+    color:white;
+    display:inline-block;
+    margin:0px 0px 0px 0px;
+    padding:15px 20px;
+    font-family:sans-serif;
+    font-size:20px;
+    text-decoration:none;
+    border-bottom: 7.5px solid red;
+}
