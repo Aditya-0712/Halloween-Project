@@ -1,0 +1,7 @@
+#b
+{
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    border:1px solid black;
+    border-radius:20px;
+}
